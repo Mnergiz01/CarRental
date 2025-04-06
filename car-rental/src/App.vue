@@ -1,9 +1,9 @@
 <template>
   <div class="min-h-screen">
-    <Homeview></Homeview>
+    <Home></Home>
   </div>
 </template>
 
 <script setup>
-import Homeview from '@/views/Homeview.vue'
+import Home from '@/views/Home.vue'
 </script>
