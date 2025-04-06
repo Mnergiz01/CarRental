@@ -6,7 +6,7 @@
         <Ourservices></Ourservices>
         <Cards></Cards>
         <Categories></Categories>
-        <submit></submit>
+        <Submit></Submit>
         <Footer></Footer>
     </div>
 </template>
@@ -19,6 +19,6 @@ import Location from '@/components/Location.vue'
 import Ourservices from '@/components/Ourservices.vue'
 import Cards from '@/components/Cards.vue'
 import Categories from '@/components/Caregories.vue'
-import submit from '@/components/submit.vue'
+import submit from '@/components/Submit.vue'
 import Footer from '@/components/Footer.vue'
 </script>
