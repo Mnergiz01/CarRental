@@ -1,5 +1,5 @@
 <template>
-  <div class="min-w-screen flex justify-center my-20 relative">
+  <div class="min-w-screen flex justify-center relative">
     <!-- Araç Görseli -->
     <img class="object-contain max-w-full h-auto" src="@/assets/Car_1.png" alt="Luxury Car" />
 
